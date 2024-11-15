@@ -1,9 +1,6 @@
-## Hi there 👋
+# Hi there, I'm Kohanlu 👋
 
-<!--
-**kohanlu/kohanlu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+## About Me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -11,6 +8,12 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## GitHub Stats
+
+![Kohanlu's GitHub stats](https://github-readme-stats.vercel.app/api?username=kohanlu&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kohanlu&layout=compact&theme=radical)
